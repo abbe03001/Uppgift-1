@@ -1,3 +1,16 @@
-p{
+body{
 	color:red;
+	background-color:blue;
+}
+h1{
+	font-size: 22px;
+	font-family: Arial;
+}
+.text{
+	color: green;
+	background-color: pink;
+	text-decoration: center;
+}
+.right{
+	text-decoration: right;
 }
